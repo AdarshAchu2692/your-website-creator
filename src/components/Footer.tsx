@@ -10,7 +10,7 @@ const Footer = () => (
       <div className="grid grid-cols-2 md:grid-cols-4 gap-10">
         <div>
           <a href="/" className="text-xl font-bold text-foreground">
-            Mind<span className="text-gradient">valley</span>
+            Biddge<span className="text-gradient"></span>
           </a>
           <p className="text-muted-foreground text-sm mt-4 leading-relaxed">
             The world's most powerful life transformation platform.
